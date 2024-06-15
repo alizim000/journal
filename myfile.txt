@@ -1,0 +1,12 @@
+i learned to create repositaory in guthub
+puch from local machine to github repositaory 
+commands used --
+
+git init
+git commit -m "first commit"
+git branch -M main for renaming the branch to main
+git remore add origin "httpgithhub"
+git push -u origin main
+git remote -v
+
+
